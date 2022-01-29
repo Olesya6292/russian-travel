@@ -1,6 +1,7 @@
-.header__links {
-    display: flex;
+.intro__list {
     list-style-type: none;
     padding: 0;
     margin: 0;
+    font-size: 12px;
+    line-height: 1.5;
 }
