@@ -29,6 +29,6 @@
 ## Инструкция по установке:
 
 ```
-git clone https://github.com/goldlexx/russian-travel.git
+git clone https://github.com/Olesya6292/russian-travel.git
 ```
 
